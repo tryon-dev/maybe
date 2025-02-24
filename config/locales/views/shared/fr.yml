@@ -1,0 +1,17 @@
+---
+fr:
+  shared:
+    confirm_modal:
+      accept: Confirmer
+      body_html: "<p>Vous ne pourrez pas annuler cette décision</p>"
+      cancel: Annuler
+      title: Êtes-vous sûr ?
+    money_field:
+      label: Montant
+    syncing_notice:
+      syncing: Synchronisation des données des comptes...
+    upgrade_notification:
+      app_upgraded: L'application a été mise à jour vers %{version}.
+      dismiss: Rejeter
+      new_version_available: Une nouvelle version de Maybe est disponible pour mise à jour.
+      upgrade_now: Mettre à jour maintenant

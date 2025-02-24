@@ -1,0 +1,10 @@
+---
+fr:
+  depositories:
+    edit:
+      edit: Modifier %{account}
+    form:
+      none: Aucun
+      subtype_prompt: Sélectionnez le type de compte
+    new:
+      title: Entrez le solde du compte

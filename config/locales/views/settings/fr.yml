@@ -1,0 +1,94 @@
+---
+fr:
+  settings:
+    billings:
+      show:
+        page_title: Facturation
+        subscription_subtitle: Gérez votre abonnement et vos détails de facturation
+        subscription_title: Gérer l'abonnement
+    preferences:
+      data_enrichment_settings:
+        description: Laissez Maybe auto-catégoriser, nommer et ajouter des données de marchand à vos
+          transactions à chaque synchronisation. Tout enrichissement est fait en anglais.
+        self_host_disclaimer: Cela utilisera des crédits API Synth.
+        title: Enrichissement des transactions (anglais uniquement)
+      show:
+        country: Pays
+        currency: Devise
+        data: Enrichissement des données
+        data_subtitle: Activer l'enrichissement des données pour vos comptes
+        date_format: Format de date
+        general_subtitle: Configurez vos préférences
+        general_title: Général
+        language: Langue
+        page_title: Préférences
+        theme_dark: Sombre
+        theme_light: Clair
+        theme_subtitle: Choisissez un thème préféré pour l'application (bientôt disponible...)
+        theme_system: Système
+        theme_title: Thème
+        timezone: Fuseau horaire
+    profiles:
+      destroy:
+        cannot_remove_self: Vous ne pouvez pas vous retirer du compte.
+        member_removal_failed: Il y a eu un problème lors de la suppression du membre.
+        member_removed: Le membre a été supprimé avec succès.
+        not_authorized: Vous n'êtes pas autorisé à supprimer des membres.
+      show:
+        confirm_delete:
+          body: Êtes-vous sûr de vouloir supprimer définitivement votre compte ? Cette action
+            est irréversible.
+          title: Supprimer le compte ?
+        confirm_remove_invitation:
+          body: Êtes-vous sûr de vouloir supprimer l'invitation pour %{email} ?
+          title: Supprimer l'invitation
+        confirm_remove_member:
+          body: Êtes-vous sûr de vouloir supprimer %{name} de votre compte ?
+          title: Supprimer le membre
+        danger_zone_title: Zone de danger
+        delete_account: Supprimer le compte
+        delete_account_warning: La suppression de votre compte supprimera définitivement toutes
+          vos données et ne peut pas être annulée.
+        email: E-mail
+        first_name: Prénom
+        household_form_input_placeholder: Entrez le nom du ménage
+        household_form_label: Nom du ménage
+        household_subtitle: Invitez des membres de la famille, des partenaires et d'autres individus. Les invités
+          peuvent se connecter à votre ménage et accéder à vos comptes partagés.
+        household_title: Ménage
+        invitation_link: Lien d'invitation
+        invite_member: Ajouter un membre
+        last_name: Nom de famille
+        page_title: Compte
+        pending: En attente
+        profile_subtitle: Personnalisez votre apparence sur Maybe
+        profile_title: Profil
+        remove_invitation: Supprimer l'invitation
+        remove_member: Supprimer le membre
+        save: Enregistrer
+    securities:
+      show:
+        page_title: Sécurité
+    settings_nav:
+      accounts_label: Comptes
+      billing_label: Facturation
+      categories_label: Catégories
+      feedback_label: Retour d'information
+      general_section_title: Général
+      imports_label: Importations
+      logout: Déconnexion
+      merchants_label: Commerçants
+      other_section_title: Plus
+      preferences_label: Préférences
+      profile_label: Compte
+      security_label: Sécurité
+      self_hosting_label: Auto-hébergement
+      tags_label: Étiquettes
+      transactions_section_title: Transactions
+      whats_new_label: Quoi de neuf
+    settings_nav_link_large:
+      next: Suivant
+      previous: Retour
+    user_avatar_field:
+      accepted_formats: JPG ou PNG. 5MB max.
+      choose: Choisir

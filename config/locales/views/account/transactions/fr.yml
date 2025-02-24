@@ -1,0 +1,57 @@
+---
+fr:
+  account:
+    transactions:
+      bulk_delete:
+        success: "%{count} transactions supprimées"
+      bulk_edit:
+        cancel: Annuler
+        category_label: Catégorie
+        category_placeholder: Sélectionnez une catégorie
+        date_label: Date
+        details: Détails
+        merchant_label: Marchand
+        merchant_placeholder: Sélectionnez un marchand
+        note_label: Notes
+        note_placeholder: Entrez une note qui sera appliquée aux transactions sélectionnées
+        overview: Aperçu
+        save: Enregistrer
+      bulk_update:
+        success: "%{count} transactions mises à jour"
+      form:
+        account: Compte
+        account_prompt: Sélectionnez un compte
+        amount: Montant
+        category: Catégorie
+        category_prompt: Sélectionnez une catégorie
+        date: Date
+        description: Description
+        description_placeholder: Décrire la transaction
+        expense: Dépense
+        income: Revenu
+        submit: Ajouter une transaction
+        transfer: Transfert
+      new:
+        new_transaction: Nouvelle transaction
+      show:
+        account_label: Compte
+        amount: Montant
+        category_label: Catégorie
+        date_label: Date
+        delete: Supprimer
+        delete_subtitle: Cela supprime définitivement la transaction, affecte vos soldes historiques et ne peut pas être annulé.
+        delete_title: Supprimer la transaction
+        details: Détails
+        merchant_label: Marchand
+        name_label: Nom
+        nature: Type
+        none: "(aucun)"
+        note_label: Notes
+        note_placeholder: Entrez une note
+        overview: Aperçu
+        settings: Paramètres
+        tags_label: Étiquettes
+        uncategorized: "(non catégorisé)"
+    transfer_matches:
+      create:
+        success: Transfert créé

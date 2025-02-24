@@ -1,0 +1,8 @@
+---
+fr:
+  activerecord:
+    models:
+      issue/exchange_rate_provider_missing: Fournisseur de taux de change manquant
+      issue/exchange_rates_missing: Taux de change manquants
+      issue/missing_prices: Prix manquants
+      issue/unknown: Problème inconnu survenu

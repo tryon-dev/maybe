@@ -1,0 +1,15 @@
+---
+fr:
+  address:
+    attributes:
+      country: Pays
+      line1: Adresse Ligne 1
+      line2: Adresse Ligne 2
+      locality: Localité
+      postal_code: Code Postal
+      region: Région
+    format: |-
+      %{line1}
+      %{line2}
+      %{locality}, %{region} %{postal_code}
+      %{country}

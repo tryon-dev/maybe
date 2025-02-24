@@ -1,0 +1,23 @@
+---
+fr:
+  plaid_items:
+    create:
+      success: Compte lié avec succès. Veuillez attendre la synchronisation des comptes.
+    destroy:
+      success: Comptes programmés pour suppression.
+    plaid_item:
+      add_new: Ajouter une nouvelle connexion
+      confirm_accept: Supprimer l'institution
+      confirm_body: Cela supprimera définitivement tous les comptes de ce groupe et toutes les données associées.
+      confirm_title: Supprimer l'institution ?
+      connection_lost: Connexion perdue
+      connection_lost_description: Cette connexion n'est plus valide. Vous devrez supprimer cette connexion et la rajouter pour continuer à synchroniser les données.
+      delete: Supprimer
+      error: Erreur lors de la synchronisation des données
+      no_accounts_description: Nous n'avons pu charger aucun compte de cette institution financière.
+      no_accounts_title: Aucun compte trouvé
+      requires_update: Nécessite une ré-authentification
+      status: Dernière synchronisation il y a %{timestamp}
+      status_never: Nécessite une synchronisation des données
+      syncing: Synchronisation...
+      update: Mettre à jour la connexion

@@ -1,0 +1,65 @@
+---
+fr:
+  accounts:
+    account:
+      has_issues: Problème détecté.
+      troubleshoot: Dépanner
+    chart:
+      no_change: pas de changement
+    create:
+      success: "%{type} compte créé"
+    destroy:
+      success: "%{type} compte programmé pour suppression"
+    empty:
+      empty_message: Ajoutez un compte soit via la connexion, l'importation ou l'entrée manuelle.
+      new_account: Nouveau compte
+      no_accounts: Aucun compte pour l'instant
+    form:
+      balance: Solde actuel
+      name_label: Nom du compte
+      name_placeholder: Exemple de nom de compte
+    index:
+      accounts: Comptes
+      manual_accounts:
+        other_accounts: Autres comptes
+      new_account: Nouveau compte
+      sync: Synchroniser tout
+    new:
+      import_accounts: Importer des comptes
+      method_selector:
+        connected_entry: Lier un compte
+        connected_entry_eu: Lier un compte UE
+        manual_entry: Entrer le solde du compte
+        title: Comment souhaitez-vous l'ajouter ?
+      title: Que souhaitez-vous ajouter ?
+    show:
+      activity:
+        amount: Montant
+        balance: Solde
+        date: Date
+        entries: entrées
+        entry: entrée
+        new: Nouveau
+        new_balance: Nouveau solde
+        new_transaction: Nouvelle transaction
+        no_entries: Aucune entrée trouvée
+        title: Activité
+      chart:
+        balance: Solde
+        owed: Montant dû
+      menu:
+        confirm_accept: Supprimer "%{name}"
+        confirm_body_html: "<p>En supprimant ce compte, vous effacerez son historique
+          de valeur, affectant divers aspects de votre compte global. Cette action
+          aura un impact direct sur vos calculs de valeur nette et les graphiques du compte.</p><br /> <p>Après la suppression, il n'y a aucun moyen de restaurer
+          les informations du compte car vous devrez l'ajouter comme un nouveau compte.</p>"
+        confirm_title: Supprimer le compte ?
+        edit: Modifier
+        import: Importer des transactions
+        manage: Gérer les comptes
+    update:
+      success: "%{type} compte mis à jour"
+  email_confirmations:
+    new:
+      invalid_token: Lien de confirmation invalide ou expiré.
+      success_login: Votre email a été confirmé. Veuillez vous connecter avec votre nouvelle adresse email.

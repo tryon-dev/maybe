@@ -1,0 +1,10 @@
+---
+fr:
+  pages:
+    changelog:
+      title: Quoi de neuf
+    dashboard:
+      no_account_empty_state:
+        new_account: Nouveau compte
+        no_account_subtitle: Aucun compte n'a été ajouté, il n'y a donc pas de données à afficher. Ajoutez vos premiers comptes pour commencer à voir les données du tableau de bord.
+        no_account_title: Aucun compte pour le moment

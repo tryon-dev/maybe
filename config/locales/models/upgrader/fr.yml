@@ -1,0 +1,13 @@
+---
+fr:
+  upgrader:
+    deployer:
+      null_deployer:
+        success_message: 'No-op : le déployeur nul a initié le déploiement avec succès'
+      render:
+        deploy_log_error: 'Échec du déploiement de %{type} %{commit_sha} sur Render : %{error_message}'
+        deploy_log_info: Déploiement de %{type} %{commit_sha} sur Render...
+        error_message_failed_deploy: Échec du déploiement sur Render
+        error_message_not_set: L'URL du hook de déploiement Render n'est pas définie
+        success_message: 'Déploiement déclenché sur Render pour le commit : %{commit_sha}'
+        troubleshooting_url: https://render.com/docs/deploy-hooks

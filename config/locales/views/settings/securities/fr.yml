@@ -1,0 +1,12 @@
+---
+fr:
+  settings:
+    securities:
+      show:
+        disable_mfa: Désactiver 2FA
+        disable_mfa_confirm: Êtes-vous sûr de vouloir désactiver l'authentification à deux facteurs ?
+          Cela rendra votre compte moins sécurisé.
+        enable_mfa: Activer 2FA
+        mfa_description: Ajoutez une couche supplémentaire de sécurité à votre compte en exigeant
+          un code de votre application d'authentification lors de la connexion
+        mfa_title: Authentification à deux facteurs

@@ -1,0 +1,23 @@
+---
+fr:
+  tags:
+    create:
+      created: Étiquette créée
+      error: "Erreur lors de la création de l'étiquette : %{error}"
+    destroy:
+      deleted: Étiquette supprimée
+    edit:
+      edit: Modifier l'étiquette
+    form:
+      placeholder: Nom de l'étiquette
+    index:
+      empty: Pas encore d'étiquettes
+      new: Nouvelle étiquette
+      tags: Étiquettes
+    new:
+      new: Nouvelle étiquette
+    tag:
+      delete: Supprimer
+      edit: Modifier
+    update:
+      updated: Étiquette mise à jour

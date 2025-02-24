@@ -1,0 +1,27 @@
+---
+fr:
+  onboardings:
+    header:
+      sign_out: Déconnexion
+    preferences:
+      currency: Devise
+      date_format: Format de date
+      example: Compte exemple
+      locale: Langue
+      preview: Aperçu de l'affichage des données en fonction des préférences.
+      submit: Terminer
+      subtitle: Configurons vos préférences.
+      title: Configurez vos préférences
+    profile:
+      country: Pays
+      first_name: Prénom
+      household_name: Nom du foyer
+      last_name: Nom de famille
+      profile_image: Image de profil
+      submit: Continuer
+      subtitle: Complétons votre profil.
+      title: Configurons les bases
+    show:
+      message: Nous sommes vraiment ravis que vous soyez ici. À l'étape suivante, nous vous poserons quelques questions pour compléter votre profil, puis nous vous installerons.
+      setup: Configurer le compte
+      title: Rencontrez Maybe

@@ -1,0 +1,7 @@
+---
+fr:
+  cryptos:
+    edit:
+      edit: Modifier %{account}
+    new:
+      title: Entrez le solde du compte

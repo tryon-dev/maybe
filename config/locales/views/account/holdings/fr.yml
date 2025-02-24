@@ -1,0 +1,36 @@
+---
+fr:
+  account:
+    holdings:
+      cash:
+        brokerage_cash: Liquidités de courtage
+      destroy:
+        success: Détention supprimée
+      holding:
+        per_share: par action
+        shares: "%{qty} actions"
+      index:
+        cost: coût
+        holdings: Détentions
+        name: nom
+        new_holding: Nouvelle transaction
+        no_holdings: Pas de détentions à afficher.
+        return: rendement total
+        weight: poids
+      missing_price_tooltip:
+        description: Cet investissement a des valeurs manquantes et nous n'avons pas pu calculer ses rendements ou sa valeur.
+        missing_data: Données manquantes
+      show:
+        avg_cost_label: Coût moyen
+        current_market_price_label: Prix du marché actuel
+        delete: Supprimer
+        delete_subtitle: Cela supprimera la détention et toutes vos transactions associées sur ce compte. Cette action est irréversible.
+        delete_title: Supprimer la détention
+        history: Historique
+        overview: Aperçu
+        portfolio_weight_label: Poids du portefeuille
+        settings: Paramètres
+        ticker_label: Symbole boursier
+        trade_history_entry: "%{qty} actions de %{security} à %{price}"
+        trend_label: Tendance
+        unknown: Inconnu

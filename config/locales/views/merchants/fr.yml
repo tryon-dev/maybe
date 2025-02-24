@@ -1,0 +1,26 @@
+---
+fr:
+  merchants:
+    create:
+      error: 'Erreur lors de la création du commerçant : %{error}'
+      success: Nouveau commerçant créé avec succès
+    destroy:
+      success: Commerçant supprimé avec succès
+    edit:
+      title: Modifier le commerçant
+    form:
+      name_placeholder: Nom du commerçant
+    index:
+      empty: Aucun commerçant pour le moment
+      new: Nouveau commerçant
+      title: Commerçants
+    merchant:
+      confirm_accept: Supprimer le commerçant
+      confirm_body: Êtes-vous sûr de vouloir supprimer ce commerçant ? La suppression de ce commerçant déconnectera toutes les transactions associées et pourrait affecter vos rapports.
+      confirm_title: Supprimer le commerçant ?
+      delete: Supprimer le commerçant
+      edit: Modifier le commerçant
+    new:
+      title: Nouveau commerçant
+    update:
+      success: Commerçant mis à jour avec succès
